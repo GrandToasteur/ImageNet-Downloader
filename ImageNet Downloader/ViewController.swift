@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  ImageNet Downloader
 //
-//  Created by Jean-Victor Delprat on 01/07/2018.
+//  Created by Onoulade on 01/07/2018.
 //  Copyright © 2018 Dadu Prod. All rights reserved.
 //
 
